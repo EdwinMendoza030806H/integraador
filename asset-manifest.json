@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/EdwinMendoza030806H/integraador.git/static/css/main.0e56ea9f.css",
-    "main.js": "/EdwinMendoza030806H/integraador.git/static/js/main.f9a044a9.js",
-    "static/js/453.2accbebf.chunk.js": "/EdwinMendoza030806H/integraador.git/static/js/453.2accbebf.chunk.js",
-    "index.html": "/EdwinMendoza030806H/integraador.git/index.html",
-    "main.0e56ea9f.css.map": "/EdwinMendoza030806H/integraador.git/static/css/main.0e56ea9f.css.map",
-    "main.f9a044a9.js.map": "/EdwinMendoza030806H/integraador.git/static/js/main.f9a044a9.js.map",
-    "453.2accbebf.chunk.js.map": "/EdwinMendoza030806H/integraador.git/static/js/453.2accbebf.chunk.js.map"
+    "main.css": "/integraador/static/css/main.0e56ea9f.css",
+    "main.js": "/integraador/static/js/main.9fdfc4dd.js",
+    "static/js/453.2accbebf.chunk.js": "/integraador/static/js/453.2accbebf.chunk.js",
+    "index.html": "/integraador/index.html",
+    "main.0e56ea9f.css.map": "/integraador/static/css/main.0e56ea9f.css.map",
+    "main.9fdfc4dd.js.map": "/integraador/static/js/main.9fdfc4dd.js.map",
+    "453.2accbebf.chunk.js.map": "/integraador/static/js/453.2accbebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e56ea9f.css",
-    "static/js/main.f9a044a9.js"
+    "static/js/main.9fdfc4dd.js"
   ]
 }
