@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EdwinMendoza030806H/integraador.git/static/css/main.0e56ea9f.css",
+    "main.js": "/EdwinMendoza030806H/integraador.git/static/js/main.f9a044a9.js",
+    "static/js/453.2accbebf.chunk.js": "/EdwinMendoza030806H/integraador.git/static/js/453.2accbebf.chunk.js",
+    "index.html": "/EdwinMendoza030806H/integraador.git/index.html",
+    "main.0e56ea9f.css.map": "/EdwinMendoza030806H/integraador.git/static/css/main.0e56ea9f.css.map",
+    "main.f9a044a9.js.map": "/EdwinMendoza030806H/integraador.git/static/js/main.f9a044a9.js.map",
+    "453.2accbebf.chunk.js.map": "/EdwinMendoza030806H/integraador.git/static/js/453.2accbebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e56ea9f.css",
+    "static/js/main.f9a044a9.js"
+  ]
+}
